@@ -1,8 +1,8 @@
 # kafka-stock-market
 
-## This is a streaming data pipeline using kafka
+## This is a streaming data pipeline using Kafka
 
-## in this project i have downloaded a stock maket dataset in a csv file and used kafka and python to steam this data and store it in aws s3 bucket, then used aws glue to get the schema of the data and aws athena to manipulate and analyze the streaming data.
+## In this project I downloaded a stock market dataset in a CSV file and used Kafka and Python to steam this data and store it in AWS s3 bucket, Then used AWS glue to get the schema of the data and AWS Athena to manipulate and analyze the streaming data.
 
 ## Technologies used in this project:
 ### 1- Python
